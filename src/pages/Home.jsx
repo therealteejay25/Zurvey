@@ -15,7 +15,7 @@ const Home = () => {
             <p className='px-10 pb-10 text-[#999] text-center font-medium'>Zurvey is the best and free online survey to take online surveys and learn.</p>
         </div>
         <div>
-            <Link to='/survey' className='bg-main py-3 lg:mx-[34.5rem] px-20 mx-12 mt-5 rounded-full text-dark text-lg'>
+            <Link to='/survey' className='bg-main py-3 lg:mx-[34rem] px-20 mx-12 mt-5 rounded-full text-dark text-lg'>
             Get started
             </Link>
         </div>
